@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1497120565 source:/home/islam/Desktop/Restauraunt Waiting List system/main.cpp
+	<iostream>
+	<Tables.h>
+	<WaitingList.h>
+	<vector>
+
+1497120565 /home/islam/Desktop/Restauraunt Waiting List system/include/Tables.h
+
+1497120577 /home/islam/Desktop/Restauraunt Waiting List system/include/WaitingList.h
+	<string>
+
+1497120715 source:/home/islam/Desktop/Restauraunt Waiting List system/src/Tables.cpp
+	"Tables.h"
+	<iostream>
+
+1497120715 source:/home/islam/Desktop/Restauraunt Waiting List system/src/WaitingList.cpp
+	"WaitingList.h"
+	<iostream>
+	<string>
+
